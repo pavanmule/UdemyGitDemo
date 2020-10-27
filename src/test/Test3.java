@@ -49,6 +49,7 @@ public class Test3 {
 	@AfterClass
 	public void afterclass() {
 		System.out.println("after class test3");
+		System.out.println("qewrrw");
 	}
 	
 

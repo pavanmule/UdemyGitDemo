@@ -16,7 +16,7 @@ public class Day1 {
 	@Test(enabled=false)
 	public void carLoanLogin() {
 		System.out.println("Login page");
-		System.out.println("login1");
+		
 	}
 	
 	@Test

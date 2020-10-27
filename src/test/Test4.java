@@ -18,6 +18,7 @@ public class Test4 {
 	public void APIHomeloan()
 	{
 		System.out.println("APIhomeloan");
+		System.out.println("loan");
 	}
 
 }
